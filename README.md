@@ -15,28 +15,31 @@ the available options currently are
 I have a plan to make it into an app in the future 
 
 ## Module installtion command(For Windows)
+   Wikipedia Module : 
 
 ```bash
-   Wikipedia Module : 
    pip install wikipedia
 ```
+   Speech Recognition  Module :
 
 ```bash
-   Speech Recognition  Module :
    pip install speechrecognition
 ```
+   Pyaudio Module :
+
+*If you get problem installing pyaudio ,visit https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio 
+   and download the compatible wheel file (search google for further information)
+```bash
+   pip install pyaudio 
+```  
+    
+   Pyttsx3  Module :
 
 ```bash
-   Pyaudio Module :
-   pip install pyaudio 
-   *If you get problem installing pyaudio ,visit https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio 
-   and download the compatible wheel file (search google for further information)
-```  
-```bash
-    Pyttsx3  Module :
    pip install pyttsx3
 ```
+   webbrowser  Module :
+
 ```bash
-    webbrowser  Module :
    pip install webbrowser
 ```
