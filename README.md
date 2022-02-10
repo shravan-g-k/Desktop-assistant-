@@ -1,18 +1,42 @@
-# Desktop-assistant-
-This is a source code for an virtual assistant which runs on terminal 
 
+# Desktop Assistant 💻🤖
+This is a simple project which runs on your terminal which acts like an 
+desktop assistant 
 
-Modules needed :
-1.pyttsx3(pip install pyttsx3)
+Once you start , it will greet you and will ask for what you want 
+the available options currently are 
 
-2.SpeechRecognition(pip install SpeechRecognition)
+1.Wikipedia search
 
-3.Pyaudio(pip install pyaudio)
+2.Current time and date
 
-4.wikipedia(pip install wikipedia)
+3.Opening google or youtube
 
-5.webbrowser(pip install web browser)
-   
-   
-   
-Thats all I have tried my best to make a simple desktop assistant , I will make it into app in Future
+I have a plan to make it into an app in the future 
+
+## Module installtion command(For Windows)
+
+```bash
+   Wikipedia Module : 
+   pip install wikipedia
+```
+
+```bash
+   Speech Recognition  Module :
+   pip install speechrecognition
+```
+
+```bash
+   Pyaudio Module :
+   pip install pyaudio 
+   *If you get problem installing pyaudio ,visit https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio 
+   and download the compatible wheel file (search google for further information)
+```  
+```bash
+    Pyttsx3  Module :
+   pip install pyttsx3
+```
+```bash
+    webbrowser  Module :
+   pip install webbrowser
+```
